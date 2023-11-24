@@ -1,0 +1,7 @@
+D:\task1.4\task1.4\bin\Debug\task1.4.exe.config
+D:\task1.4\task1.4\bin\Debug\task1.4.exe
+D:\task1.4\task1.4\bin\Debug\task1.4.pdb
+D:\task1.4\task1.4\obj\Debug\task1.4.csproj.AssemblyReference.cache
+D:\task1.4\task1.4\obj\Debug\task1.4.csproj.CoreCompileInputs.cache
+D:\task1.4\task1.4\obj\Debug\task1.4.exe
+D:\task1.4\task1.4\obj\Debug\task1.4.pdb
